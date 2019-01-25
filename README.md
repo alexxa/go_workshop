@@ -22,9 +22,15 @@ On *deb* systems:
 #### Mac & Windows
 [golang.org](https://golang.org/doc/install#macos) manual
 
-#### Verifying
+#### Verifying installation
 Before we start everyone should be able to get the source code and run it:
 ```
 go get github.com/igulina/go_workshop
 go run 01_hello_world.go
+```
+
+#### Labs
+Use go's *test* command to execute the tests in `labs/lab*`:
+```
+go test ./labs/lab1
 ```
