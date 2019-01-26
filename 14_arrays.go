@@ -36,7 +36,7 @@ func main() {
 	var matrix [3][3]int
 	fmt.Println(matrix)
 
-	//
+	//Initialization
 	m := [2][2]int{[2]int{1, 2}, [2]int{3, 4}}
 	fmt.Println(m)
 	//Simplified syntax

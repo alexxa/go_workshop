@@ -23,19 +23,11 @@ func main() {
 	}
 	fmt.Println(num)
 
-	//Task: write infinite loop counting stars
-	/*
-		star :=1
-		for {
-		        fmt.Println(star)
-			star ++
-		}
-	*/
+	//Task_02: write infinite loop counting stars
 
 	//Break, break with a label and continue
 
-J:
-	for j := 0; j < 5; j++ {
+J:	for j := 0; j < 5; j++ {
 		for i := 0; i < 10; i++ {
 			if i > 5 {
 				break J

@@ -15,7 +15,7 @@ func main() {
 	a = &b
 
 	fmt.Println(a, b) //Q: What will it print?
-	fmt.Println(*a)   // Q: What will it print?
+	fmt.Println(*a)   //Q: What will it print?
 	//*a = *a / 0
 	//fmt.Println(b) //Q: What will it print?
 

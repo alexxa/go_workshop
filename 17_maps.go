@@ -19,11 +19,10 @@ func main() {
 	monthOrder["June"] = 6
 	fmt.Println(monthOrder)
 
-	//Task. Fill the map with for loop
+	//Task_03. Fill the map with for loop
 	//Print how many days in the current month.
 
 	//Q: What does v, ok = monthOrder['Monday'] do?
-
 	//Q: How to delete an element from a map?
 
 }
