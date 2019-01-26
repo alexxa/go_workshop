@@ -29,7 +29,7 @@ Before we start everyone should be able to get the source code and run it:
 they all have *main()* function, so that you can easily run them with `go run`)
 
 ```
-go get github.com/igulina/go_workshop
+go get github.com/alexxa/go_workshop
 go run 01_hello_world.go
 ```
 
