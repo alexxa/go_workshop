@@ -24,6 +24,10 @@ On *deb* systems:
 
 #### Verifying installation
 Before we start everyone should be able to get the source code and run it:
+
+(all *.go* files in the repository are for simplicity in the *main* package and
+they all have *main()* function, so that you can easily run them with `go run`)
+
 ```
 go get github.com/igulina/go_workshop
 go run 01_hello_world.go

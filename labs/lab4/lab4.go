@@ -1,3 +1,5 @@
+package main
+
 /*
 FizzBuzz problem.
 Write a program that prints the numbers 1 to 100.
@@ -22,8 +24,15 @@ Fizz
 14
 FizzBuzz
 */
-package lab4
+
+func fizzBuzz() {
+	// for i := 1; i <= 100; i++ {
+
+	// TODO: fill in
+
+	// }
+}
 
 func main() {
-
+	fizzBuzz()
 }

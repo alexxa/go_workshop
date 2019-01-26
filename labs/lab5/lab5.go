@@ -1,19 +1,21 @@
+package lab5
+
 /*
 Implement a function that takes an int value and
 gives that many terms of the Fibonacci sequence.
 
-The Fibonacci sequence: 1, 1, 2, 3, 5, 8, 13,... 
+The Fibonacci sequence: 1, 1, 2, 3, 5, 8, 13,...
+
+https://en.wikipedia.org/wiki/Fibonacci_number
 
 */
 
-package main
-
-func FibonacciLoop(n int) int {
+func fibonacciLoop(n int) int {
 	//Using loop
-	return
+	return -1
 }
 
-func FibonacciRecursion(n int) int {
+func fibonacciRecursion(n int) int {
 	//Recursion
-	return
+	return -1
 }
