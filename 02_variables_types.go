@@ -107,8 +107,4 @@ func main() {
 	//Task: Define variables of various types at package level,
 	//print them in main function,
 	//create a variable with the same naming, different value.
-
-	//Variables declared outside any functions are global.
-	//If names overlap, the local variable hides the global one
-	//when the current function is executed.
 }

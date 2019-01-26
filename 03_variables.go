@@ -42,13 +42,4 @@ func main() {
 	// 	variable1 string
 	// 	variable2 string
 	// )
-
-	// constants
-	const pi = 3.14159
-
-	// constant block
-	const (
-		constant1 = 1
-		constant2 = "constant"
-	)
 }

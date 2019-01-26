@@ -5,7 +5,6 @@ For multiples of three, print "Fizz".
 For multiples of five, print "Buzz".
 For multiples of both three and five, print "FizzBuzz".
 
-
 Expected output:
 1
 2
@@ -23,3 +22,8 @@ Fizz
 14
 FizzBuzz
 */
+package lab4
+
+func main() {
+
+}

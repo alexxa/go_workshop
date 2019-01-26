@@ -38,13 +38,14 @@ package main
 import "fmt"
 
 func main() {
+	//newDataTypeVar = T(oldDataTypeVar)
 	var x int = 42
 	var y float32 = float32(x)
 	var z string = string(x)
 
 	println(x, y, z)
 
-	//Type convertion doesn't work between some types.
+	//Type conversion doesn't work between some types.
 	//var error int = int(z)
 	//println(error)
 
